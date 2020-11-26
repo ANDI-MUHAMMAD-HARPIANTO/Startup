@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/organizations/ANDI-MUHAMMAD-HARPIANTO/transdigiware</id>
+  <link type="text/html" rel="alternate" href="https://github.com/organizations/ANDI-MUHAMMAD-HARPIANTO/transdigiware"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/organizations/ANDI-MUHAMMAD-HARPIANTO/transdigiware.private.atom?token=AIJQFU2LMMTCZKCQTUX32HV5ZOVUK"/>
+  <title>Private Feed for the ANDI-MUHAMMAD-HARPIANTO Organization</title>
+  <updated>2020-11-26T08:59:52Z</updated>
+  <entry>
+    <id>tag:github.com,2008:PushEvent/14323930752</id>
+    <published>2020-11-26T08:59:52Z</published>
+    <updated>2020-11-26T08:59:52Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ANDI-MUHAMMAD-HARPIANTO/Startup/compare/84555d8e74...c29384b2d4"/>
+    <title type="html">transdigiware pushed to master in ANDI-MUHAMMAD-HARPIANTO/Startup</title>
+    <author>
+      <name>transdigiware</name>
+      <uri>https://github.com/transdigiware</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/34800339?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;push&quot; data-test-selector=&quot;visible-event&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;!-- push --&gt;
+&lt;div class=&quot;d-flex border-bottom color-border-secondary py-3&quot;&gt;
+  &lt;span class=&quot;mr-3&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/transdigiware&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars1.githubusercontent.com/u/34800339?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@transdigiware&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+    &lt;div&gt;
+      &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/transdigiware&quot; rel=&quot;noreferrer&quot;&gt;transdigiware&lt;/a&gt;
+      
+      pushed to
+
+
+      &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup&quot; rel=&quot;noreferrer&quot;&gt;ANDI-MUHAMMAD-HARPIANTO/Startup&lt;/a&gt;
+      &lt;span class=&quot;f6 text-gray-light no-wrap ml-1&quot;&gt;
+        &lt;relative-time datetime=&quot;2020-11-26T08:59:52Z&quot; class=&quot;no-wrap&quot;&gt;Nov 26, 2020&lt;/relative-time&gt;
+      &lt;/span&gt;
+
+        &lt;div class=&quot;Box p-3 mt-2&quot;&gt;
+          &lt;span&gt;1 commit to&lt;/span&gt;
+          &lt;a class=&quot;branch-name&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup/tree/master&quot; rel=&quot;noreferrer&quot;&gt;master&lt;/a&gt;
+
+          &lt;div class=&quot;commits pusher-is-only-committer&quot;&gt;
+            &lt;ul&gt;
+                &lt;li class=&quot;d-flex flex-items-baseline&quot;&gt;
+                  &lt;span title=&quot;transdigiware&quot;&gt;
+                    &lt;a class=&quot;d-inline-block&quot; href=&quot;/transdigiware&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;mr-1 avatar-user&quot; src=&quot;https://avatars2.githubusercontent.com/u/34800339?s=32&amp;amp;v=4&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;@transdigiware&quot;&gt;&lt;/a&gt;
+                  &lt;/span&gt;
+                  &lt;code&gt;&lt;a class=&quot;mr-1&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup/commit/c29384b2d408153ffc6e83bb704d7f4e16caff03&quot; rel=&quot;noreferrer&quot;&gt;c29384b&lt;/a&gt;&lt;/code&gt;
+                  &lt;div class=&quot;dashboard-break-word lh-condensed&quot;&gt;
+                    &lt;blockquote&gt;
+                      Commit CodeQ
+                    &lt;/blockquote&gt;
+                  &lt;/div&gt;
+                &lt;/li&gt;
+
+
+            &lt;/ul&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:CreateEvent/14323861374</id>
+    <published>2020-11-26T08:53:52Z</published>
+    <updated>2020-11-26T08:53:52Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ANDI-MUHAMMAD-HARPIANTO/Startup/tree/V1.0"/>
+    <title type="html">transdigiware created a tag V1.0 in ANDI-MUHAMMAD-HARPIANTO/Startup</title>
+    <author>
+      <name>transdigiware</name>
+      <uri>https://github.com/transdigiware</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/34800339?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;tag&quot; data-test-selector=&quot;visible-event&quot;&gt;&lt;div class=&quot;body&quot;&gt;
+&lt;!-- create --&gt;
+&lt;div class=&quot;d-flex flex-items-baseline border-bottom color-border-secondary py-3&quot;&gt;
+    &lt;span class=&quot;mr-3&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/transdigiware&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars1.githubusercontent.com/u/34800339?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@transdigiware&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+  &lt;div class=&quot;d-flex flex-column width-full&quot;&gt;
+        &lt;div class=&quot;d-flex flex-items-baseline&quot;&gt;
+          &lt;div&gt;
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/transdigiware&quot; rel=&quot;noreferrer&quot;&gt;transdigiware&lt;/a&gt;
+            
+            created a
+            tag
+            in
+            &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup&quot; rel=&quot;noreferrer&quot;&gt;ANDI-MUHAMMAD-HARPIANTO/Startup&lt;/a&gt;
+            &lt;span class=&quot;f6 text-gray-light no-wrap ml-1&quot;&gt;
+              &lt;relative-time datetime=&quot;2020-11-26T08:53:52Z&quot; class=&quot;no-wrap&quot;&gt;Nov 26, 2020&lt;/relative-time&gt;
+            &lt;/span&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+
+    &lt;div class=&quot;Box p-3 mt-2&quot;&gt;
+      &lt;div&gt;
+        &lt;div class=&quot;f4 lh-condensed text-bold text-gray-dark&quot;&gt;
+            &lt;a class=&quot;link-gray-dark text-bold&quot; title=&quot;V1.0&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup/tree/V1.0&quot; rel=&quot;noreferrer&quot;&gt;V1.0&lt;/a&gt; in &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup&quot; rel=&quot;noreferrer&quot;&gt;ANDI-MUHAMMAD-HARPIANTO/Startup&lt;/a&gt;
+        &lt;/div&gt;
+
+
+          &lt;p class=&quot;f6 text-gray mt-2 mb-0&quot;&gt;
+            &lt;span&gt;Updated Nov 26&lt;/span&gt;
+          &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:ReleaseEvent/14323861308</id>
+    <published>2020-11-26T08:53:52Z</published>
+    <updated>2020-11-26T08:53:52Z</updated>
+    <link type="text/html" rel="alternate" href="https://github.com/ANDI-MUHAMMAD-HARPIANTO/Startup/releases/tag/V1.0"/>
+    <title type="html">transdigiware released Digital Version Releases Gamma Startup at ANDI-MUHAMMAD-HARPIANTO/Startup</title>
+    <author>
+      <name>transdigiware</name>
+      <uri>https://github.com/transdigiware</uri>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/34800339?s=30&amp;v=4"/>
+    <content type="html">&lt;div class=&quot;release&quot; data-test-selector=&quot;visible-event&quot;&gt;&lt;div class=&quot;body&quot;&gt;&lt;!-- release --&gt;
+&lt;div class=&quot;d-flex border-bottom color-border-secondary py-3&quot;&gt;
+  &lt;span class=&quot;mr-3&quot;&gt;&lt;a class=&quot;d-inline-block&quot; href=&quot;/transdigiware&quot; rel=&quot;noreferrer&quot;&gt;&lt;img class=&quot;avatar avatar-user&quot; src=&quot;https://avatars1.githubusercontent.com/u/34800339?s=64&amp;amp;v=4&quot; width=&quot;32&quot; height=&quot;32&quot; alt=&quot;@transdigiware&quot;&gt;&lt;/a&gt;&lt;/span&gt;
+  &lt;div class=&quot;d-flex flex-items-baseline width-full&quot;&gt;
+    &lt;div&gt;
+      &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/transdigiware&quot; rel=&quot;noreferrer&quot;&gt;transdigiware&lt;/a&gt;
+      
+      released
+      &lt;a href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup/releases/tag/V1.0&quot; rel=&quot;noreferrer&quot;&gt;Digital Version Releases Gamma Startup&lt;/a&gt;
+      at
+      &lt;a class=&quot;link-gray-dark no-underline text-bold wb-break-all d-inline-block&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup&quot; rel=&quot;noreferrer&quot;&gt;ANDI-MUHAMMAD-HARPIANTO/Startup&lt;/a&gt;
+      &lt;span class=&quot;f6 text-gray-light no-wrap ml-1&quot;&gt;
+        &lt;relative-time datetime=&quot;2020-11-26T08:53:52Z&quot; class=&quot;no-wrap&quot;&gt;Nov 26, 2020&lt;/relative-time&gt;
+      &lt;/span&gt;
+      &lt;ul&gt;
+          &lt;li class=&quot;list-style-none mt-1&quot;&gt;
+            &lt;span class=&quot;f6 text-gray-light&quot;&gt;
+              &lt;svg class=&quot;octicon octicon-download&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M7.47 10.78a.75.75 0 001.06 0l3.75-3.75a.75.75 0 00-1.06-1.06L8.75 8.44V1.75a.75.75 0 00-1.5 0v6.69L4.78 5.97a.75.75 0 00-1.06 1.06l3.75 3.75zM3.75 13a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+              &lt;blockquote&gt;&lt;a rel=&quot;nofollow noreferrer&quot; class=&quot;link-gray&quot; href=&quot;/ANDI-MUHAMMAD-HARPIANTO/Startup/archive/V1.0.zip&quot;&gt;Source code (zip)&lt;/a&gt;&lt;/blockquote&gt;
+            &lt;/span&gt;
+          &lt;/li&gt;
+
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;</content>
+  </entry>
+</feed>
