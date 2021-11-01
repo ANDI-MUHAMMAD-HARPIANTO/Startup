@@ -2,7 +2,7 @@
 For MultyCorn Startup, We Started With Legacy, everyone must being hear before the namely famous on usually in online actuvities.
 ## MAYAKARYA
 Maya karya is same mean Virtual Work, currently we are carrying the name as The Startup Company Of The Future.
-Of course, we go through a long hierarchical process and we have to go through time lines as rule of schedule, hoping that there is a goddess fortuna who can throw us to the top. but how is it possible before our start-up transforms to digital.
+Of course, we go through a long hierarchical process and we have to go through time lines as rule of schedule, hoping that there is a goddess fortuna who can throw us to the top. but how is it possible before our start-up (transforms to digital)[https://github.com/users/transdigiware/projects/1].
 For Us Mayakarya is Two words become on word. ["mayakarya"](https://www.f6s.com/mayakarya)
 ### Base Idea 
 Even though we are a start-up company that is directly involved in the business of technology and information, the opportunities that exist in local businesses and the global market regarding upstream and downstream cloud services, whether they are SaaS, PaaS and IaaS-based services, we are still taking step by step by collaborating of course with companies. which is big because for a small company that is just starting out like us, it will be difficult to provide such a complex and complicated service.
