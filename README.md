@@ -1,5 +1,6 @@
-# Startup
-For MultyCorn Startup, We Started With Legacy, everyone must being hear before the namely famous on usually in online actuvities.
+# Start-ups
+Menurut [wikipedia berbahasa Indonesia]( https://id.wikipedia.org/wiki/Perusahaan_rintisan) judul Repositories saya merujuk pada Perusahaan rintisan (Inggris: startup company atau start-up company) adalah istilah yang merujuk pada semua perusahaan yang belum lama beroperasi. Perusahaan-perusahaan ini sebagian besar merupakan perusahaan yang baru didirikan dan berada dalam fase pengembangan dan penelitian untuk menemukan pasar yang tepat.
+Tetapi bagi saya sebagai Pendiri For MultyCorn Start-ups Next, We Started With Legacy, everyone must being hear before the namely famous on usually in online actuvities.
 ## MAYAKARYA
 Maya karya is same mean Virtual Work, currently we are carrying the name as The Startup Company Of The Future.
 Of course, we go through a long hierarchical process and we have to go through time lines as rule of schedule, hoping that there is a goddess fortuna who can throw us to the top. but how is it possible before our start-up (transforms to digital)[https://github.com/users/transdigiware/projects/1].
